@@ -1,3 +1,3 @@
-# Public_repository
+# Exam_projects
 
-In this repository you can find my academic projects
+In this repository you can find my exam projects
